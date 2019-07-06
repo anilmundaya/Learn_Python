@@ -14,3 +14,8 @@ print(b)
 
 c={12,12,12,34,45,45,67}
 print(c)
+
+
+#list
+anil=[12,23]
+print(anil)
