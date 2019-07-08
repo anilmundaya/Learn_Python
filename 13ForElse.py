@@ -4,4 +4,4 @@ for i in nums:
         print(i)
 
 
-#if you only first number
+#if_you_only_first_number
