@@ -1,5 +1,4 @@
 #There are diffrtn type of array
-
 from numpy import *
 arr= array([1,2,3,4,5,6])
 #ar=linspace(0,15,20) #0 to 15 divided into 20 parts
@@ -12,4 +11,3 @@ print(a)
 print(brr)
 print(br)
 print(b)
-
